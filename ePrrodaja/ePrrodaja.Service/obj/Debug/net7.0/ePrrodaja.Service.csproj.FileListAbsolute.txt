@@ -1,0 +1,17 @@
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\bin\Debug\net7.0\ePrrodaja.Service.deps.json
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\bin\Debug\net7.0\ePrrodaja.Service.runtimeconfig.json
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\bin\Debug\net7.0\ePrrodaja.Service.dll
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\bin\Debug\net7.0\ePrrodaja.Service.pdb
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\bin\Debug\net7.0\ePrrodaja.Model.dll
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\bin\Debug\net7.0\ePrrodaja.Model.pdb
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.csproj.AssemblyReference.cache
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.AssemblyInfoInputs.cache
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.AssemblyInfo.cs
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.csproj.CoreCompileInputs.cache
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.csproj.CopyComplete
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.dll
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\refint\ePrrodaja.Service.dll
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.pdb
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ePrrodaja.Service.genruntimeconfig.cache
+C:\Users\AmarMujkic\Downloads\FIT1-RS2-2024\ePrrodaja\ePrrodaja.Service\obj\Debug\net7.0\ref\ePrrodaja.Service.dll

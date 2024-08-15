@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ePrrodaja.API.props" />
+</Project>
